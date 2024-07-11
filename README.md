@@ -24,3 +24,10 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </div>
+
+<div align="center">
+    <h2>📗 Database: </h2>
+    <img src="https://img.shields.io/badge/SQL-FFA500?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=nosql&logoColor=white" alt="NoSQL" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</div>
