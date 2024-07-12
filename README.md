@@ -3,6 +3,7 @@
     <h2>✈️ About Me</h2>
     <p>My name is Manantsoa AKA Andy</p>
     <p>I'm a Computer Science and Engineering student</p>
+    <p>I am also a graphic designer</p>
     <p>I enjoy taking risk, to surpass myself but I do procrastinate too ,sometimes.</p>
 
 </div>
