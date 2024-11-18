@@ -28,6 +28,6 @@
 
 <div align="center">
     <h2>🧩 Database: </h2>
-    <img src="https://img.shields.io/badge/mySQL-FFA500?style=for-the-badge&logo=sql&logoColor=white" alt="mySQL" />
+    <img src="https://img.shields.io/badge/mySQL-FFA500?style=for-the-badge&logo=Mysql&logoColor=white" alt="mySQL" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </div>
