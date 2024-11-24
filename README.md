@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badgeDjango-339933?style=for-the-badge&logo=Django&logoColor=white" alt="Django" />
+    <img src="https://img.shields.io/badgeDjango?style=for-the-badge&logo=Django&logoColor=white" alt="Django" />
 </div>
 
 <div align="center">
