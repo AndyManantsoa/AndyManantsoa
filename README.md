@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" />
-    <img src="https://img.icons8.com/?size=100&id=2572&format=png&logo=Java&logoColor=Red" alt="Java" />
+    <img src="https://img.icons8.com/?size=20&id=2572&format=png&logo=Java&logoColor=Red" alt="Java" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript" />
     
