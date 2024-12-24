@@ -1,10 +1,9 @@
 <div align="center">
     <h2>✈️ About Me</h2>
     <p>
-        Hi there! I'm Manantsoa, also known as Andy 👋<br>
-        A passionate Computer Science and Engineering student 🎓<br>
+        Yooooo, I am Manantsoa, also known as Andy 👋<br>
+        A Computer Science and Engineering student 🎓<br>
         Graphic designer by day, code enthusiast by night 🚀<br>
-        Always challenging myself, though occasional procrastination is my kryptonite 😅
     </p>
 </div>
 
@@ -23,10 +22,11 @@
 <div align="center">
     <h2>💻 Frameworks & Technologies</h2>
     <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
     </p>
 </div>
