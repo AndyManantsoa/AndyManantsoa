@@ -3,6 +3,7 @@
     <p>
         Yooooo, I am Manantsoa, also known as Andy 👋<br>
         A Computer Science and Engineering student 🎓<br>
+        And a full-stack developper 😎 <br>
         Graphic designer by day, code enthusiast by night 🚀<br>
     </p>
 </div>
