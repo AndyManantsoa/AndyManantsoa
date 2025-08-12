@@ -4,8 +4,6 @@
         Hey there! I’m <strong>Andrianasolo Manantsoa Claudino</strong>, also known as <strong>Andy</strong> 👋<br>
         🇲🇬 Citizen of Madagascar | Currently based in 🇮🇳 India<br>
         🎓 <strong>B.Tech in Computer Science & Engineering</strong><br>
-        💻 Full-stack developer <br>
-        💻 Working as frontend dev at "!Minicode MDG" <br>
     </p>
 </div>
 
@@ -55,10 +53,4 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
     </p>
 </div>
-
----
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=AndyManantsoa&theme=dracula" alt="Trophies" />
-</p>
 
