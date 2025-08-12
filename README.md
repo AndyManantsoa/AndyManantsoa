@@ -3,7 +3,7 @@
     <p>
         Hey there! I’m <strong>Andrianasolo Manantsoa Claudino</strong>, also known as <strong>Andy</strong> 👋<br>
         🇲🇬 Citizen of Madagascar | Currently based in 🇮🇳 India<br>
-        🎓 <strong>B.Tech in Computer Science & Engineering</strong>
+        🎓 <strong>B.Tech in Computer Science & Engineering</strong><br>
         💻 Full-stack developer <br>
         💻 Working as frontend dev at <!Minicode> <br>
     </p>
