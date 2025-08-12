@@ -12,6 +12,13 @@
 ---
 
 <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AndyManantsoa&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyManantsoa&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
     <h2>📗 Languages</h2>
     <p>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -48,17 +55,6 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
     </p>
 </div>
-
----
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AndyManantsoa&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyManantsoa&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AndyManantsoa&style=flat-square&color=blue" alt="Profile Views" />
-</p>
 
 ---
 
