@@ -5,7 +5,7 @@
         🇲🇬 Citizen of Madagascar | Currently based in 🇮🇳 India<br>
         🎓 <strong>B.Tech in Computer Science & Engineering</strong><br>
         💻 Full-stack developer <br>
-        💻 Working as frontend dev at <!Minicode> <br>
+        💻 Working as frontend dev at "<!Minicode>" <br>
     </p>
 </div>
 
