@@ -50,3 +50,19 @@
 </div>
 
 ---
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AndyManantsoa&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyManantsoa&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AndyManantsoa&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=AndyManantsoa&theme=dracula" alt="Trophies" />
+</p>
+
