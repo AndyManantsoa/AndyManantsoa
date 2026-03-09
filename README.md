@@ -8,7 +8,7 @@
 
   <!-- GitHub Stats -->
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=AndyManantsoa&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+    <img src="[https://github-readme-stats.vercel.app/api?username=AndyManantsoa&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=AndyManantsoa)" alt="GitHub Stats" width="45%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyManantsoa&layout=compact&theme=radical" alt="Top Languages" width="45%" />
   </div>
 </div>
