@@ -45,6 +45,9 @@
 <img src="https://img.shields.io/badge/Expo-1B1B1B?style=for-the-badge&logo=expo&logoColor=white"/>
 <img src="https://img.shields.io/badge/MERN-3C3C3C?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hardhat-FCC72B?style=for-the-badge&logo=ethereum&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
 
 </div>
 <div align="center">
