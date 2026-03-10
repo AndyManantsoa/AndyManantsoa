@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+AndyManantsoa;Full+Stack+Developer;Web+%26+Mobile+Enthusiast;AI+%7C+Blockchain+Learner" />
 
-<h3>Andrianasolo Manantsoa Claudino</h3>
-
 🌍 From **Madagascar 🇲🇬**
 📍 Currently in **India 🇮🇳**
 🎓 **B.Tech Computer Science & Engineering**
