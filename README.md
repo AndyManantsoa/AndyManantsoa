@@ -73,7 +73,7 @@
 </a>
 
 <a href="https://www.instagram.com/manantso_">
-<img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-f9ce34?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:manantsoaadrs@gmail.com">
