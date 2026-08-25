@@ -2,13 +2,14 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+AndyManantsoa;Full+Stack+Developer;Web+%26+Mobile+Enthusiast;AI+%7C+Blockchain+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+I'm+AndyManantsoa;Full+Stack+Developer;Penetration+Tester;Building+%7C+Breaking" />
 
 🌍 From **Madagascar 🇲🇬**
 📍 Currently in **India 🇮🇳**
 🎓 **B.Tech Computer Science & Engineering**
 
-💻 Passionate about **Web Development, Mobile Apps, AI/ML & Blockchain**
+🔐 Focused on **Cybersecurity, Penetration Testing & Web Security**
+💻 Strong background in **Full-Stack & Mobile Developmen**
 
 <img src="https://komarev.com/ghpvc/?username=AndyManantsoa&label=Profile%20views&color=0e75b6&style=flat" />
 
@@ -16,53 +17,65 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyManantsoa&theme=tokyonight&hide_border=true"/>
-</div>
 <p align="center">
 <img src="https://raw.githubusercontent.com/AndyManantsoa/AndyManantsoa/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# ⚙️ Technologies
+# 🧰 Cybersecurity
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netcat-222222?style=for-the-badge"/>
 
 </div>
-<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Gobuster-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ffuf-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hashcat-333333?style=for-the-badge"/>
+
+</div>
+
+
+---
+
+# 💻 Development
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MERN-3C3C3C?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Expo-1B1B1B?style=for-the-badge&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hardhat-FCC72B?style=for-the-badge&logo=ethereum&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 </div>
-<br/>
-<div align="center">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/NativeWind-000000?style=for-the-badge&logo=react&logoColor=white" />
-
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
----
+<div align="center">
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/NativeWind-000000?style=for-the-badge&logo=react&logoColor=white"/>
+</div>
+
+
 
 # 📫 Connect With Me
 
@@ -86,6 +99,8 @@
 
 <div align="center">
 
-⭐ *Always learning, always building.*
+**Build. Break. Secure.**
+
+*Always learning, always building, always testing.*
 
 </div>
